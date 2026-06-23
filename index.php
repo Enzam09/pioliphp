@@ -21,7 +21,7 @@
                     <input class="form-control" name="login" type="text" required/>
                     <br>
                     <label class="form-label">SENHA</label>
-                    <input class="form-control" name="semha" type="password" required/>
+                    <input class="form-control" name="senha" type="password" required/>
                     <br>
                     <button type="submit" class="btn-success">LOGAR</button>
                 </form>
